@@ -1,0 +1,18 @@
+{
+    "app": {
+        "javascripts": {
+            "global": "app/js/**/*.js",
+            "paths": [
+                "./node_modules/jquery/dist/jquery.js"
+            ],
+            "dist": "app/js"
+        },
+        "stylesheets": {
+            "paths": "app/scss/**/*.scss",
+            "dist": "app/css"
+        },
+        "html": {
+            "paths": "app/*.html"
+        }
+    }
+}

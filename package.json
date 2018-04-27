@@ -1,0 +1,31 @@
+{
+	"name": "rulers",
+	"version": "1.0.0",
+	"description": "rulers est un framework SCSS intuitif basé sur Flexbox",
+	"main": "gulpfile.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/guimgn/rulers.git"
+	},
+	"author": "guimgn",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/guimgn/rulers/issues"
+	},
+	"homepage": "https://github.com/guimgn/rulers#readme",
+	"devDependencies": {
+		"browser-sync": "^2.23.7",
+		"concat": "^1.0.3",
+		"gulp": "^3.9.1",
+		"gulp-bytediff": "^1.0.0",
+		"gulp-concat": "^2.6.1",
+		"gulp-rename": "^1.2.2",
+		"gulp-sass": "^4.0.1",
+		"gulp-uglify": "^3.0.0",
+		"jquery": "^3.3.1",
+		"run-sequence": "^2.2.1"
+	}
+}
